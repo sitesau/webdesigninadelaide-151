@@ -1,0 +1,22 @@
+{
+  "wheel_id": 679,
+  "structure": "umbrella",
+  "slug": "webdesigninadelaide-151",
+  "project": "web-design-adelaide-local-options-compared-11f5a9026517a11a946b",
+  "parent_t1_ref": "webdesigninadelaide-011",
+  "node_role": "buffer",
+  "money_target": "webdesigninadelaide.com.au",
+  "primary_kw": "web design adelaide local options compared",
+  "intended_url": "https://sitesau.github.io/webdesigninadelaide-151/",
+  "tier": "T2",
+  "writeback_nonce": "3b33eb340f5c25f7",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/web-design-adelaide-011/",
+      "anchor": "this web design adelaide resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
